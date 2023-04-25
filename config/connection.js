@@ -1,7 +1,8 @@
+// Enable access to .env variables
 require('dotenv').config();
-
+// Imports sequalize library
 const Sequelize = require('sequelize');
-
+//Connects to mysql database
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)
   : new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PW, {
@@ -11,5 +12,5 @@ const sequelize = process.env.JAWSDB_URL
         decimalNumbers: true,
       },
     });
-
+//exports sequalize
 module.exports = sequelize;
