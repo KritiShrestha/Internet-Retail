@@ -48,7 +48,7 @@ Product.init(
 
     },
   
-  {
+  { // Link to database connection
     sequelize,
     timestamps: false,
     freezeTableName: true,
