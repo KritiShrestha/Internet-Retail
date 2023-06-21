@@ -1,6 +1,5 @@
-# Internet-Retail
 ## Description
-This is an application developed for e-commerce company that uses latest technologies to compete with other e-commerce companies
+This is an application developed to build  backend for a e-commerce site . It provides a functional Express.js API that connects to a MySQL database using Sequelize, allowing you to manage categories, products, and tags.
 
 ## Table of Contents
 - [Technology](#technology)
@@ -12,14 +11,23 @@ This is an application developed for e-commerce company that uses latest technol
 - [Videolink](#Videolink)
 
 ## Technology
- Node.js, Sequalize, Insomnia, MySQL2, dotenv package
+Express, Node.js, Insomnia,MySQL, sequalize, 
 
 ## Installation
-Clone this repository https://github.com/KritiShrestha/internetretail to your local machine. Open the project in your VS code.
+Clone this repository https://github.com/KritiShrestha/internetretail to your local machine. Open the project in your VS code. Then run the following commands:
+npm init
+npm install mysql
+npm install sequeliz
+npm install dotenv
+
 ## Usage
-This application is used to to manage a backend of company using various technologies.
+Clone this repository on command line. 
+Install dependencies using npm install
+Start the server using the command npm start.
+Login to your my sql, and seed 
+Use an API testing tool like Insomnia  interact with the backend API.
 
-
+        
 ## Contribution
 Kriti Shrestha
 
