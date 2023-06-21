@@ -36,7 +36,7 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-Here is the walkthrough video ![Videolink]([internetretail.webm](https://github.com/KritiShrestha/Internet-Retail/assets/119089669/dc9a3ec1-6007-413a-b0ca-c80b199e19fc))
+Here is the walkthrough video 
 
-
+[internetretail.webm](https://github.com/KritiShrestha/Internet-Retail/assets/119089669/dc9a3ec1-6007-413a-b0ca-c80b199e19fc)
 
