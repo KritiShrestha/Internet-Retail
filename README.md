@@ -1,5 +1,5 @@
 ## Description
-This is an application developed to build  backend for a e-commerce site . It provides a functional Express.js API that connects to a MySQL database using Sequelize, allowing you to manage categories, products, and tags.
+This is an application developed to build  the backend for an e-commerce site. It provides a functional Express.js API that connects to a MySQL database using Sequelize, allowing you to manage categories, products, and tags.
 
 ## Table of Contents
 - [Technology](#technology)
@@ -11,20 +11,20 @@ This is an application developed to build  backend for a e-commerce site . It pr
 - [Videolink](#Videolink)
 
 ## Technology
-Express, Node.js, Insomnia,MySQL, sequalize, 
+Express, Node.js, Insomnia, MySQL, sequalize, 
 
 ## Installation
 Clone this repository https://github.com/KritiShrestha/internetretail to your local machine. Open the project in your VS code. Then run the following commands:
 npm init
 npm install mysql
-npm install sequeliz
+npm install sequelize
 npm install dotenv
 
 ## Usage
 Clone this repository on command line. 
 Install dependencies using npm install
 Start the server using the command npm start.
-Login to your my sql, and seed 
+Login to your my sql, and see
 Use an API testing tool like Insomnia  interact with the backend API.
 
         
@@ -36,6 +36,6 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-Here is the walkthrough video 
+Here is the walkthrough video ![Videolink](./assets/video/internetretail.webm)
 
 
