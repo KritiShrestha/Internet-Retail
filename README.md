@@ -36,6 +36,6 @@ You can find me on Github at [KritiShrestha](https://github.com/KritiShrestha)
 Feel free to reach me out at shrkriti07@gmail.com if you have any additional questions
 
 ## Videolink
-Here is the walkthrough video ![Videolink](./assets/video/internetretail.webm)
+Here is the walkthrough video 
 
 
